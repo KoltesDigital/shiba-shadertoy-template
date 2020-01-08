@@ -1,0 +1,8 @@
+# Use this file to customize your project.
+# Write computer-specific configuration in "<profile directory>/.shiba/config.yml".
+name: title-by-yourself
+# Uncomment to build a 4k intro!
+# executable-linker:
+#   tool: crinkler
+# shader-minifier:
+#   tool: shader-minifier
